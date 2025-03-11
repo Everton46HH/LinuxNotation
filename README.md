@@ -11,3 +11,15 @@ cd - Volta para aluno/
 
 Caminho Relativo - Apartir de onde me encontro
 Caminho Absoluto - Apartir da raiz
+
+
+cat > pastaX - salva oque seria imprimido no terminal
+cat >> pastaX - Concatena
+
+tac > Imprimi os bagui aocontrario
+wc - contar linhas
+
+tail -x - imprimi as linhas
+head -x - mesma coisa so q no final
+grep PalavraX - Mostra as palavra enguais
+
