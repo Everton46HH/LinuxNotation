@@ -23,3 +23,17 @@ tail -x - imprimi as linhas
 head -x - mesma coisa so q no final
 grep PalavraX - Mostra as palavra enguais
 
+
+ps - Listagem dos processos
+
+ps aux 
+
+pstree 
+
+ps aux | grep *PALAVRA* 
+
+
+kill -15 *NUMERO PID*
+O NUMERO DO PID ESTA PRESENTE NO ps 
+
+
