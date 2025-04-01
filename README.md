@@ -37,3 +37,6 @@ kill -15 *NUMERO PID*
 O NUMERO DO PID ESTA PRESENTE NO ps 
 
 
+sudo su "Nome do Usuario" - Troca de usuario
+
+
